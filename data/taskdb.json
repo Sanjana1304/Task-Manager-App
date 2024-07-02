@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "task": "Wake Up",
+      "checked": false
+    },
+    {
+      "id": "2",
+      "task": "Batheee",
+      "checked": false
+    },
+    {
+      "id": "3",
+      "task": "Eat",
+      "checked": true
+    }
+  ]
+}
